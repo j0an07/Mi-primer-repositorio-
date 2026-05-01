@@ -3,7 +3,7 @@
 de varias lineas'''
 
 #Definiendo variables
-nombre = "Joan"
+nombre = "Joan Sebastian lizarazo perez"
 edad = 14 
 estado = True
 altura = 1.72
